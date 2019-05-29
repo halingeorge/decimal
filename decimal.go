@@ -26,7 +26,7 @@ import (
 	"strconv"
 	"strings"
 
-	"gopkg.in/mgo.v2/bson"
+        "github.com/globalsign/mgo/bson"
 )
 
 // DivisionPrecision is the number of decimal places in the result when it
